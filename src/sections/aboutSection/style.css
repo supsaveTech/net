@@ -1,0 +1,50 @@
+.imageBox img {
+  max-width: 180px;
+  width: 100%;
+}
+.imageBox {
+  margin-top: 50px;
+}
+.content-box {
+  margin-top: 50px;
+}
+.content-box h6 {
+  text-transform: capitalize;
+  font-size: 24px;
+  margin-bottom: 15px;
+}
+.content-box p {
+  font-size: 16px;
+  letter-spacing: 1;
+  line-height: 24px;
+}
+.card-image {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  text-align: center;
+  flex-direction: column;
+  align-items: center;
+}
+.card-image p {
+  margin-top: 20px;
+  font-size: 16px;
+}
+.card-image img {
+  max-width: 200px;
+  width: 100%;
+}
+
+.image-row {
+  margin-top: 50px;
+}
+@media (min-width: 768px) {
+  .card-image p {
+    margin-top: 20px;
+    font-size: 22px;
+  }
+  .card-image img {
+    max-width: 300px;
+    width: 100%;
+  }
+}

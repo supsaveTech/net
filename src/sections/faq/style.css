@@ -1,0 +1,33 @@
+.faq {
+  margin-top: 100px;
+}
+.faq-left {
+  margin-bottom: 50px;
+}
+.faq-left img {
+  width: 70%;
+  margin: 0 auto;
+  display: block;
+}
+.faq-item {
+  position: relative;
+  font-size: 16px;
+  color: #ccc;
+  margin-bottom: 45px;
+  background: #41394b;
+  padding: 25px;
+  border-radius: 55px;
+  padding-left: 60px;
+  position: relative;
+}
+.faq-item p {
+  font-weight: bold;
+  font-size: 18px;
+}
+.faq-item img {
+  position: absolute;
+  width: 120px;
+  object-fit: cover;
+  left: -60px;
+  top: -6px;
+}

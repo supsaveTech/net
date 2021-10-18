@@ -1,0 +1,18 @@
+.team {
+  margin-top: 100px;
+}
+.img-wrapper {
+  width: 60%;
+  border-radius: 50px;
+  margin: 0 auto 20px;
+  display: block;
+  overflow: hidden;
+}
+.team-content {
+  text-align: center;
+  margin: 20px 0;
+}
+.team-content p {
+  font-size: 18px;
+  font-weight: bold;
+}

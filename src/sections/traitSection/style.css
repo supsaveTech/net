@@ -1,0 +1,167 @@
+/*Traits Sections*/
+section.trait-section {
+  padding: 80px 0;
+}
+.traits-list {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.traits-list ul li {
+  background: #3a3842;
+  color: #fff;
+  margin-bottom: 5px;
+  padding: 12px 0;
+  text-align: center;
+  border-radius: 6px;
+  transition: 0.5s ease-in-out;
+  position: relative;
+}
+.traits-list ul li:after {
+  content: "";
+  position: absolute;
+  bottom: -11px;
+  height: 15px;
+  width: 1px;
+  background: #6d6d6d;
+  z-index: 999;
+  right: 10%;
+}
+.traits-list ul li:before {
+  content: "";
+  position: absolute;
+  bottom: -11px;
+  height: 15px;
+  width: 1px;
+  background: #6d6d6d;
+  z-index: 999;
+  left: 10%;
+}
+
+.traits-list ul li:hover {
+  background: #9c1efd;
+}
+button.total-traits {
+  background: transparent;
+  border: 0;
+  width: 100%;
+  display: block;
+  background: rgb(179, 8, 254);
+  background: linear-gradient(
+    0deg,
+    rgba(179, 8, 254, 1) 0%,
+    rgba(139, 48, 254, 1) 45%,
+    rgba(103, 83, 254, 1) 100%
+  );
+  padding: 15px 0px;
+  color: #fff;
+  border-radius: 6px;
+}
+.modalimg img {
+  width: 160px;
+}
+.bear-modal {
+  position: relative;
+  display: inline-block;
+  margin-left: 100px;
+}
+.modalimg {
+  display: inline-block;
+  margin-left: 125px;
+}
+.modal-elements {
+  position: absolute;
+  top: -65px;
+  right: -111px;
+  width: 85px;
+  height: 80px;
+}
+.modal-elements span {
+  width: 45px;
+  position: absolute;
+  top: 25px;
+  left: 26px;
+}
+/*element-2*/
+.modal-elements.element-2 {
+  top: 50px;
+  transform: rotate(15deg);
+  right: -225px;
+}
+
+.modal-elements.element-2 img {
+  transform: rotate(-15deg);
+}
+/*element-3*/
+.modal-elements.element-3 {
+  top: 225px;
+  transform: rotate(70deg);
+  right: -238px;
+}
+
+.modal-elements.element-3 img {
+  transform: rotate(-70deg);
+}
+/*element-4*/
+.modal-elements.element-4 {
+  top: 380px;
+  transform: rotate(85deg);
+  right: -145px;
+}
+
+.modal-elements img {
+  width: 100%;
+}
+
+.modal-elements.element-1 span {
+  top: 24px;
+}
+
+.modal-elements.element-2 span {
+  top: 39px;
+  left: 27px;
+}
+
+.modal-elements.element-3 span {
+  top: 24px;
+}
+
+.modal-elements.element-4 span {
+  top: 34px;
+}
+
+.modal-elements.element-4 img {
+  transform: rotate(-85deg);
+}
+.traits-gallery img {
+  width: 100%;
+}
+.traits-gallery ul li {
+  width: 25%;
+  float: left;
+  margin-bottom: -2px;
+}
+.traits-gallery {
+  margin-top: 90px;
+}
+.traits {
+  margin-top: 100px;
+}
+
+@media (max-width: 1000px) {
+  .bear-modal {
+    position: relative;
+    display: inline-block;
+    margin-left: 0px;
+  }
+  .modal-elements.element-2 {
+    top: 50px;
+    transform: rotate(15deg);
+    right: -170px;
+  }
+  .modal-elements.element-3 {
+    top: 225px;
+    transform: rotate(70deg);
+    right: -190px;
+  }
+}
