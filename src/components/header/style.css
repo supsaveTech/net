@@ -1,0 +1,109 @@
+.navbar {
+  transition: all 0.5s;
+}
+.navbar-brand {
+  margin-top: 20px;
+}
+.navbar-brand img {
+  width: 60px;
+}
+
+.menu {
+  font-size: 20px;
+}
+.menu ul li {
+  padding: 40px 25px;
+}
+
+.menu ul li a:hover {
+  color: var(--violet);
+  text-decoration: none;
+}
+
+.menu ul li.active a {
+  color: var(--violet);
+}
+.toggle-bar {
+  font-size: 25px;
+}
+
+@media (max-width: 768px) {
+  .navbar-brand img {
+    width: 30px;
+  }
+}
+
+.navbar.active {
+  position: sticky;
+  top: 0;
+  left: 0;
+  z-index: 999999;
+  background-color: var(--primary-color);
+  margin: 0;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.navbar.active .navbar-brand {
+  margin-top: 0;
+}
+.navbar.active .navbar-brand img {
+  width: 30px;
+}
+.toggle-bar {
+  cursor: pointer;
+}
+
+/* mobile menu */
+
+.mobile-menu.active {
+  left: 0;
+}
+.mobile-menu {
+  max-width: 350px;
+  width: 100%;
+  background-color: white;
+  color: var(--primary-color);
+  height: 100%;
+  position: fixed;
+  top: 0;
+  left: -100%;
+  z-index: 1000;
+  padding-top: 100px;
+  padding: 20px;
+  transition: all 0.5s;
+}
+.mobile-nav {
+  margin-top: 40px;
+}
+.mobile-nav li {
+  padding: 10px;
+  border-bottom: 1px solid black;
+  padding-bottom: 20px;
+  padding-left: 0;
+}
+.mobile-nav li a {
+  color: var(--primary-color);
+}
+.mobile-nav li a:hover {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+.mobile-nav li:hover {
+  color: rgb(172, 14, 254);
+}
+.close-btn {
+  color: black;
+  display: flex;
+  justify-content: end;
+  cursor: pointer;
+}
+.close-btn span {
+  margin-left: auto;
+}
+
+.navbar .mint-now {
+  margin-top: 0;
+}
+.navbar.active .menu ul li {
+  padding: 10px 25px;
+}
