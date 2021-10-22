@@ -22,13 +22,9 @@ const Index = () => {
               </p>
             </div>
             <div className="content-box">
-              <h6>The Society</h6>
+              <h6>GoosePunks Lore</h6>
               <p>
-                When you buy a bear, you are not only buying collectible digital
-                art, but you gain access to a decentralized collective secret
-                society where the benefits increase over time. You are also
-                helping with land conservation, climate change, and rescuing
-                bears.
+                2034. The humans of the planet once called Earth, reach for extraordinary technological heights. During a great time of suspicion and accusation, the world’s governments couldn’t maintain peace. Four mega-nations arm themselves for war. In these days, legends clash and lives are lost. Ground forces are deployed, and they prepare fortifications. What made this war different from the ones before or since? One technician disobeyed orders - not wanting fame, power, or riches, but rather for all of humanity to be obliterated.
               </p>
             </div>
           </div>
