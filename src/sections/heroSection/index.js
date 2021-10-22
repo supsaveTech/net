@@ -92,7 +92,7 @@ const Index = ({
           </div>
           <div className="col-12 col-md-6 col-lg-6 col-xl-6">
             <div className="hero-image-bo">
-              <img src={HeroImg} alt="heroImg" />
+              <img src={HeroImg} width="100%" alt="heroImg" />
             </div>
           </div> 
         </div>
