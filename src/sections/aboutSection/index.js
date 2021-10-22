@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-import Bear2 from "../../assets/images/bear-2.png";
+import Bear2 from "../../assets/images/goose-2.png";
 import Bear3 from "../../assets/images/bear-5.png";
 import Bear4 from "../../assets/images/bear-4.png";
 import Bear5 from "../../assets/images/bear-3.png";
@@ -10,8 +10,8 @@ const Index = () => {
       <div className="container">
         <div class="row align-items-center">
           <div className="col-12 col-md-4 d-none d-md-block">
-            <div className="d-flex justify-content-center imageBox">
-              <img src={Bear2} alt="" />
+            <div className="d-flex justify-content-center imageBo">
+              <img src={Bear2} width="100%" alt="" />
             </div>
           </div>
           <div className="col-12 col-md-8 mt-4 mt-sm-0">
