@@ -94,7 +94,8 @@
 .close-btn {
   color: black;
   display: flex;
-  justify-content: end;
+/*   justify-content: end; */
+  justify-content:flex-end;
   cursor: pointer;
 }
 .close-btn span {
