@@ -23,7 +23,7 @@ const Index = ({ difference, account, loadWeb3 }) => {
       <div className="container">
         <div className="d-flex justify-content-between w-100 align-items-center">
           <div className="navbar-bran ">
-            <img src={Logo} alt="Logo" />
+            <img src={Logo} width="60%" alt="Logo" />
           </div>
           <div className="menu d-none d-md-block ">
             <ul className="d-flex align-items-center">
