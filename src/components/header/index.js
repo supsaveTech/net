@@ -113,18 +113,20 @@ const MobileBar = ({ openHandler, open, difference, loadWeb3, account }) => (
             Roadmap{" "}
           </a>
         </li>
-        <li>
+        {/* <li>
           <a href="#traits" onClick={openHandler}>
             Traits{" "}
           </a>
-        </li>
+        </li> */}
         <li>
           <a href="#faq" onClick={openHandler}>
             FAQ{" "}
           </a>
         </li>
         <li>
-          <a href="#team">Team </a>
+          <a href="#team" onClick={openHandler}>
+            Team{" "} 
+            </a>
         </li>
 
         {/* <button className="mint-now" onClick={() => loadWeb3()}>
