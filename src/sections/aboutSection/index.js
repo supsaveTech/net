@@ -1,9 +1,9 @@
 import React from "react";
 import "./style.css";
 import Bear2 from "../../assets/images/goose-2.png";
-import Bear3 from "../../assets/images/bear-5.png";
-import Bear4 from "../../assets/images/bear-4.png";
-import Bear5 from "../../assets/images/bear-3.png";
+import Bear3 from "../../assets/images/img1.png";
+import Bear4 from "../../assets/images/img2.png";
+import Bear5 from "../../assets/images/img3.png";
 const Index = () => {
   return (
     <section id="about" className="text-white">
