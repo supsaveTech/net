@@ -1,12 +1,12 @@
 import React from "react";
-import Gal1 from "../../assets/images/gal-1.jpg";
-import Gal2 from "../../assets/images/gal-2.jpg";
-import Gal3 from "../../assets/images/gal-3.jpg";
-import Gal4 from "../../assets/images/gal-4.jpg";
-import Gal5 from "../../assets/images/gal-5.jpg";
-import Gal6 from "../../assets/images/gal-6.jpg";
-import Gal7 from "../../assets/images/gal-7.jpg";
-import Gal8 from "../../assets/images/gal-8.jpg";
+import Gal1 from "../../assets/images/21.png";  
+import Gal2 from "../../assets/images/34.png";
+import Gal3 from "../../assets/images/26.png";
+import Gal4 from "../../assets/images/37.png";
+import Gal5 from "../../assets/images/32.png";
+import Gal6 from "../../assets/images/38.png";
+import Gal7 from "../../assets/images/24.png";
+import Gal8 from "../../assets/images/39.png";
 import "./style.css";
 
 const Index = () => {
