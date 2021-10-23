@@ -33,19 +33,19 @@ const Index = () => {
           <div className="col-12 col-sm-4">
             <div className="card-image">
               <img src={Bear3} alt="bear3" />
-              <p>11,111 Characters</p>
+              <p>Goose Father</p>
             </div>
           </div>
           <div className="col-12 col-sm-4">
             <div className="card-image">
               <img src={Bear4} alt="bear3" />
-              <p>Randomly Generated</p>
+              <p>Mother Goose</p>
             </div>
           </div>
           <div className="col-12 col-sm-4">
             <div className="card-image">
               <img src={Bear5} alt="bear3" />
-              <p>383 Traits</p>
+              <p>Monsta Goose</p>
             </div>
           </div>
         </div>
