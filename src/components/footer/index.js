@@ -11,14 +11,14 @@ const Index = () => {
         </div>
         <div className="social-icons">
           <a
-            href="https://twitter.com/secretbearnft"
+            href="https://twitter.com/goosepunks?s=21"
             target="_blank"
             rel="noreferrer"
           >
             <img src={Twitter} alt="twitter" />
           </a>
           <a
-            href="https://discord.gg/3UTF6hq4cm"
+            href="https://discord.gg/XugTyRrQgW"
             target="_blank"
             rel="noreferrer"
           >
