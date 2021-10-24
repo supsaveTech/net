@@ -18,11 +18,11 @@ const Index = () => {
             <img src={Twitter} alt="twitter" />
           </a>
           <a
-            href="https://discord.gg/XugTyRrQgW"
+            href="https://discord.gg/TjndR7Ycwk"
             target="_blank"
             rel="noreferrer"
           >
-            <img src={Discord} alt="twitter" />
+            <img src={Discord} alt="discord" />
           </a>
         </div>
         <div className="footer-text">
