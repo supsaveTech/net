@@ -11,7 +11,7 @@ const Index = () => {
         </div>
         <div className="social-icons">
           <a
-            href="https://twitter.com/goosepunks?s=21"
+            href="https://twitter.com/goosepunks"
             target="_blank"
             rel="noreferrer"
           >
