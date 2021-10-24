@@ -1,7 +1,7 @@
 import React from "react";
 import Img1 from "../../assets/images/22.png";
 import Img2 from "../../assets/images/34.png";
-import Img3 from "../../assets/images/36.png";
+import Img3 from "../../assets/images/26.png";
 import "./style.css";
 const Index = () => {
   return (
