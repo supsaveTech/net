@@ -1,7 +1,7 @@
 import React from "react";
-import Img1 from "../../assets/images/founder.png";
-import Img2 from "../../assets/images/team.jpg";
-import Img3 from "../../assets/images/illustrator.png";
+import Img1 from "../../assets/images/22.png";
+import Img2 from "../../assets/images/34.png";
+import Img3 from "../../assets/images/36.png";
 import "./style.css";
 const Index = () => {
   return (
@@ -28,7 +28,7 @@ const Index = () => {
               <div className="img-wrapper">
                 <img src={Img2} alt="" className="img-fluid" />
               </div>
-              <p>Co-Founder</p>
+              <p>Community Manager</p>
               <span>
                 {/* Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                 Aliquam corrupti similique. */}
@@ -40,7 +40,7 @@ const Index = () => {
               <div className="img-wrapper">
                 <img src={Img3} alt="" className="img-fluid" />
               </div>
-              <p>Illustrator</p>
+              <p>Blockchain Developer</p>
               <span>
                 {/* Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                 Aliquam corrupti similique. */}
