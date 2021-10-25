@@ -25,7 +25,7 @@ section.road-map {
 }
 
 .mapbox-inner a {
-  color: #ae0dfe;
+  color: #0deefe;
 }
 .mapbox-1 {
   display: inline-block;
@@ -36,7 +36,7 @@ section.road-map {
   padding: 40px 30px 40px 40px;
   background-size: cover;
   width: 400px;
-  height: 150px;
+  height: 250px;
   background: #41394b;
   border-radius: 60px 60px 0 60px;
 }
@@ -51,7 +51,7 @@ section.road-map {
   border-radius: 60px 60px 60px 0px;
   background-size: cover;
   width: 400px;
-  height: 150px;
+  height: 210px;
 }
 .mapbox-3 {
   display: inline-block;
@@ -64,7 +64,7 @@ section.road-map {
   border-radius: 60px 60px 0px 60px;
   background-size: cover;
   width: 400px;
-  height: 150px;
+  height: 230px;
 }
 .mapbox-4 {
   display: inline-block;
@@ -77,13 +77,13 @@ section.road-map {
   border-radius: 60px 60px 60px 0px;
   background-size: cover;
   width: 400px;
-  height: 150px;
+  height: 240px;
 }
 @media (min-width: 767px) and (max-width: 1140px) {
   .mapbox-1,
   .mapbox-2,
   .mapbox-3,
-  .mapbox-4 {
+  .mapbox-4 { 
     background-size: contain;
     width: 350px;
     height: 150px;
@@ -98,7 +98,7 @@ section.road-map {
 .map-box {
   position: relative;
   width: 100%;
-  background: #2b2b2b;
+  /* background: #2b2b2b; */
   text-align: center;
   left: 0;
   right: 0;
@@ -117,7 +117,8 @@ section.road-map {
   font-weight: bold;
 }
 .map-box a {
-  color: var(--violet);
+  color: #0deefe;
+  /* color: var(--violet); */
 }
 .map-box-1::after,
 .map-box-2::after,
