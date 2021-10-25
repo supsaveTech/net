@@ -45,7 +45,7 @@ const Index = () => {
           <div className="col-12 col-sm-4">
             <div className="card-image">
               <img src={Bear5} alt="bear3" />
-              <p>Monsta Goose</p>
+              <p>Goose DevOps</p>
             </div>
           </div>
         </div>
