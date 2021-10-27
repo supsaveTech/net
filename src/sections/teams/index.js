@@ -40,7 +40,7 @@ const Index = () => {
               <div className="img-wrapper">
                 <img src={Img3} alt="" className="img-fluid" />
               </div>
-              <p>Robin Goose</p>
+              <p>CFO</p>
               <span>
                 {/* Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                 Aliquam corrupti similique. */}
