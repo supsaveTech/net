@@ -12,7 +12,7 @@ function App() {
   const [account, setAccount] = useState(null);
   const [contract, setContract] = useState(null);
   const [totalSupply, setTotalSupply] = useState(0);
-  const [maxSupply, setMaxSupply] = useState(0);
+  const [maxSupply, setMaxSupply] = useState(12000);
   const [price, setPrice] = useState(0);
   const [displayPrice, setDisplayPrice] = useState(0);
   const [lessMintAmountAlert, setLessMintAmountAlert] = useState(false);
