@@ -3,7 +3,7 @@ import "./style.css";
 import Bear2 from "../../assets/images/goose-2.png";
 import Bear3 from "../../assets/images/img1.png";
 import Bear4 from "../../assets/images/img2.png";
-import Bear5 from "../../assets/images/img3.png";
+import Bear5 from "../../assets/images/img4.png";
 const Index = () => {
   return (
     <section id="about" className="text-white">
@@ -45,7 +45,7 @@ const Index = () => {
           <div className="col-12 col-sm-4">
             <div className="card-image">
               <img src={Bear5} alt="bear3" />
-              <p>Goose DevOps</p>
+              <p>Robin Goose</p>
             </div>
           </div>
         </div>
