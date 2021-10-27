@@ -1,7 +1,7 @@
 import React from "react";
 import Img1 from "../../assets/images/22.png";
 import Img2 from "../../assets/images/34.png";
-import Img3 from "../../assets/images/26.png";
+import Img3 from "../../assets/images/27.png";
 import "./style.css";
 const Index = () => {
   return (
@@ -40,7 +40,7 @@ const Index = () => {
               <div className="img-wrapper">
                 <img src={Img3} alt="" className="img-fluid" />
               </div>
-              <p>Goose DevOps</p>
+              <p>Robin Goose</p>
               <span>
                 {/* Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                 Aliquam corrupti similique. */}
