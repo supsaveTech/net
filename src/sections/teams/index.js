@@ -28,7 +28,7 @@ const Index = () => {
               <div className="img-wrapper">
                 <img src={Img2} alt="" className="img-fluid" />
               </div>
-              <p>Community Manager</p>
+              <p>Co-Founder</p>
               <span>
                 {/* Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                 Aliquam corrupti similique. */}
