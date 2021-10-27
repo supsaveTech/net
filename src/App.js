@@ -14,7 +14,7 @@ function App() {
   const [totalSupply, setTotalSupply] = useState(0);
   const [maxSupply, setMaxSupply] = useState(12000);
   const [price, setPrice] = useState(0);
-  const [displayPrice, setDisplayPrice] = useState(0);
+  const [displayPrice, setDisplayPrice] = useState(0.07);
   const [lessMintAmountAlert, setLessMintAmountAlert] = useState(false);
   const [accessAccountDenied, setAccessAccountDenied] = useState(false);
   const [installEthereum, setInstallEthereum] = useState(false);
