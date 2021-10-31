@@ -28,6 +28,17 @@ const Index = () => {
         <div className="footer-text">
           <span className="d-inline-block mr-4">Privay Policy</span>
           <span>Term & conditions</span>
+          <br />
+          <br />
+          <span>&nbsp; &nbsp; &nbsp; 
+          <a
+            href="mailto:zane@goosepunks.com "
+            target="_blank"
+            rel="noreferrer"
+          >
+           Contact Us (24/7)
+          </a>
+          </span>
         </div>
       </div>
     </footer>
@@ -35,3 +46,4 @@ const Index = () => {
 };
 
 export default Index;
+
