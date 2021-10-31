@@ -21,7 +21,7 @@ const Index = () => {
                 More announcements will be communicated in due course.
               </p>
               <a
-                href="https://new-goose.netlify.app/"
+                href="https://www.app.goosepunks.com"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -34,7 +34,7 @@ const Index = () => {
               <h4>Q2/U2: Goosepunks' Marketplace</h4>
               <p>This quarter shall feature the lunch of Goosepunks Marketplace,
                 a market where all goose can mint their NFTs as well as upload and sell their NFTs.</p>
-              <a href="https://new-goose.netlify.app/" target="_blank" rel="noreferrer">
+              <a href="https://www.app.goosepunks.com" target="_blank" rel="noreferrer">
               https://www.app.goosepunks.com
               </a>
             </div>
@@ -45,7 +45,7 @@ const Index = () => {
               <p>We shall be launching the Goosepunks Gaggle in this quarter also,
                  an interactive platfrom where all goose can come together to have fun, learn from one another
                  and most importantly just GAGGLE.</p>
-              <a href="https://new-goose.netlify.app/">https://www.app.goosepunks.com</a>
+              <a href="https://www.app.goosepunks.com">https://www.app.goosepunks.com</a>
             </div>
           </div>
           <div class="mapbox-4 wow fadeInRight">
@@ -69,7 +69,7 @@ const Index = () => {
                 More announcements will be communicated in due course.
               </p>
               <a
-                href="https://new-goose.netlify.app/"
+                href="https://www.app.goosepunks.com"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -82,7 +82,7 @@ const Index = () => {
             <h4>Q2/U2: Goosepunks' Marketplace</h4>
               <p>This quarter shall feature the lunch of Goosepunks Marketplace,
                 a market where all goose can mint their NFTs as well as upload and sell their NFTs.</p>
-              <a href="https://new-goose.netlify.app/" target="_blank" rel="noreferrer">
+              <a href="https://www.app.goosepunks.com" target="_blank" rel="noreferrer">
               https://www.app.goosepunks.com
               </a>
             </div>
@@ -93,7 +93,7 @@ const Index = () => {
               <p>We shall be launching the Goosepunks Gaggle in this quarter also,
                  an interactive platfrom where all goose can come together to have fun, learn from one another
                  and most importantly just GAGGLE.</p>
-              <a href="https://new-goose.netlify.app/">https://www.app.goosepunks.com</a>
+              <a href="https://www.app.goosepunks.com">https://www.app.goosepunks.com</a>
             </div>
           </div>
           <div className="col-12">
