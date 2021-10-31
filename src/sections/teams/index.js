@@ -3,6 +3,7 @@ import Img1 from "../../assets/images/22.png";
 import Img2 from "../../assets/images/34.png";
 import Img3 from "../../assets/images/27.png";
 import Twitter from "../../assets/images/twitter.png";
+import Discord from "../../assets/images/discord.png";
 import "./style.css";
 const Index = () => {
   return (
@@ -19,7 +20,6 @@ const Index = () => {
               </div>
               <p className="social-icon">Founder &nbsp;
 
-              {/* <div className="social-icons"> */}
           <a
             href="https://twitter.com/zbits33"
             target="_blank"
@@ -27,8 +27,14 @@ const Index = () => {
           >
             <img src={Twitter} alt="twitter" />
           </a>
-           
-        {/* </div> */}
+            &nbsp;
+          <a
+            href="https://discord.gg/TjndR7Ycwk"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src={Discord} alt="discord" />
+          </a>
  
               </p>
               {/* <span>
