@@ -1,0 +1,50 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 86 80" width="86" height="80">
+	<title>element-bg-svg</title>
+	<defs>
+		<image  width="54" height="54" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADYAAAA2CAMAAAC7m5rvAAAAAXNSR0IB2cksfwAAAXdQTFRFAAAA1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+1ZX+tGferwAAAH10Uk5TABJSjr7R4O//8eG9kV8tQNSSJzGfSCSr/sc3CZmsCh7QzBpD7ORT3xD7sEdwL/cjBaiIOzK4oPgPE/RQkDQN/acsF09ca5zApNjB6vPT5tKer4N9aTNM7RlYyAh4YAfLKIloG94C20sVDFs5t+VlBIzu2ndWs9c1So+8skUlGW9KAAABoklEQVR4nJ3W+VcBURTA8VvIVSqVqKQiilJakEop7dGiTVq176s21R/fGHIMb8y89/3NMZ/jeDPuBUCqrFyhVFWoUVOpqtJW1xCvKaxWoUNh6rp6CdOgVyMpZWMJZDA2EVG65hYRZGoVNXzmNpJq7yitEC3WYtVpk1KI9qJD7ZJGXN2OAuWUxbBHoHplKkRXnurrl6sQ3Tk1IHmGeQ3m2BCFQhzOKg+VQm+W+ejYiJ9Xo2N0DMd55qJUGOAZzTHyOScAJmVdGRS8mgKYpv2sdCGYYWGzMMfC5imfkGwLsMjClmCZhYXBzsIiwKIQ2ZgGIixsBVZZmBfWWNg6RFnYBmyysC3YZmE7ADEG5gEIMLBdgDgD40ZJiPrO7aUn0P4BLTvkJ9fRMZ2KmTJTOUGxb7hO/lfHKY2KnOVWjpmC5e1Fx7lsZbnIX6dhucwjWN7uS1nIeSX8pwDXcn54wTgUdqOXZsWK61ZirtjuSIr7gvellM5AVlwTxqAIenh8ElVciecXAnpNmkohvrd34V380H5KmkzWr2RKH/3+8aWSv37C+39iIG4wmrovrQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #3d3b45 } 
+		.shp1 { fill: #24232a } 
+		.shp2 { fill: #4d4a56 } 
+		.shp3 { fill: #7c5f8a } 
+		.shp4 { fill: #986dab } 
+		.shp5 { fill: #8a669c } 
+		.shp6 { fill: #8b689e } 
+		.shp7 { fill: #a173b8 } 
+		.shp8 { fill: #846698 } 
+		.shp9 { fill: #9570ad } 
+		.shp10 { fill: #7a628d } 
+		.shp11 { fill: #86699c } 
+		.shp12 { fill: #48424d } 
+		.shp13 { fill: #83699c } 
+		.shp14 { fill: #8b76b0 } 
+		.shp15 { fill: #8174a9 } 
+		.shp16 { fill: #8b80bc } 
+		.shp17 { fill: #6d668c } 
+		.shp18 { fill: #6d678f } 
+		.shp19 { fill: #7f79ae } 
+	</style>
+	<path id="Layer" class="shp0" d="M40 3C41.77 3.78 43.04 3.91 45 4C43.23 3.22 41.96 3.09 40 3Z" />
+	<path id="Layer" class="shp1" d="M45.67 3.33C45.22 3.78 46.28 3.72 46.33 3.67C46.78 3.22 45.72 3.28 45.67 3.33Z" />
+	<path id="Layer" class="shp2" d="M7 76C21.03 76 37.26 78.25 51 75.33C57.86 73.88 63.94 70.86 68.98 65.96C73.31 61.75 76.37 56.74 78.25 51C79.84 46.14 80.28 41.09 79.91 36C77.31 0.59 26.36 -8 10.81 23C9.1 26.41 7.65 30.19 7.18 34C5.53 47.62 7 62.27 7 76Z" />
+	<path id="Layer" class="shp3" d="M36 13L37 14L36 13Z" />
+	<path id="Layer" class="shp4" d="M49 13L50 14L49 13Z" />
+	<path id="Layer" class="shp5" d="M33 14L34 15L33 14Z" />
+	<path id="Layer" class="shp6" d="M58 17L59 18L58 17Z" />
+	<path id="Layer" class="shp7" d="M26 18L27 19L26 18Z" />
+	<path id="Layer" class="shp8" d="M21 23L22 24L21 23Z" />
+	<path id="Layer" class="shp9" d="M65 24L66 25L65 24Z" />
+	<path id="Layer" class="shp10" d="M19 26L20 27L19 26Z" />
+	<path id="Layer" class="shp11" d="M18 28L19 29L18 28Z" />
+	<path id="Layer" class="shp12" d="M69 31C70.25 37.74 70.79 44.67 67.62 51C56.6 73.04 27.42 70.83 18 49C15.16 57.2 26.24 67.21 33 69.87C46.43 75.15 61.38 67.6 69.14 56.92C74.65 49.34 76.01 38.07 69 31Z" />
+	<path id="Layer" class="shp13" d="M16 34L17 35L16 34Z" />
+	<path id="Layer" class="shp14" d="M69 46L70 47L69 46Z" />
+	<use id="Layer" href="#img1" x="16" y="13" />
+	<path id="Layer" class="shp15" d="M22 57L23 58L22 57Z" />
+	<path id="Layer" class="shp16" d="M25 60L26 61L25 60Z" />
+	<path id="Layer" class="shp17" d="M31 64L32 65L31 64Z" />
+	<path id="Layer" class="shp18" d="M37 66L38 67L37 66Z" />
+	<path id="Layer" class="shp19" d="M48 66L49 67L48 66Z" />
+</svg>
