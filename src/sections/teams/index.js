@@ -29,7 +29,7 @@ const Index = () => {
           </a>
             &nbsp;
           <a
-            href="https://discord.gg/TjndR7Ycwk"
+            href="https://discord.gg/zbits33"
             target="_blank"
             rel="noreferrer"
           >
