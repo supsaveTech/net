@@ -21,7 +21,7 @@ const Index = () => {
 
               {/* <div className="social-icons"> */}
           <a
-            href="https://twitter.com/goosepunks"
+            href="https://twitter.com/zbits33"
             target="_blank"
             rel="noreferrer"
           >
@@ -45,7 +45,7 @@ const Index = () => {
               <p className="social-icon">Community Manager &nbsp;
               
               <a
-            href="https://twitter.com/goosepunks"
+            href="https://twitter.com/JxT_2288"
             target="_blank"
             rel="noreferrer"
           >
@@ -66,7 +66,7 @@ const Index = () => {
               <p className="social-icon">Robin Goose &nbsp;
               
               <a
-            href="https://twitter.com/goosepunks"
+            href="https://twitter.com/NSzero07"
             target="_blank"
             rel="noreferrer"
           >
