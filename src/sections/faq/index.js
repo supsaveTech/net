@@ -175,7 +175,7 @@ const Index = () => {
   };
 
   return (
-    <div name="aboutus" className="faq-Section-main-wrapper">
+    <section id="faq" class="section-space" className="faq-Section-main-wrapper">
       <div className="faqsection-inner-wrapper"> 
       <div className="section-heading">
            <h2>FAQ's <img src={FaqImage} width="5%" alt="" /></h2>
@@ -353,7 +353,7 @@ const Index = () => {
         </div>
       </div>
       </div>
-    </div>
+    </section>
   );  
 };
 
