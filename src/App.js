@@ -12,9 +12,9 @@ function App() {
   const [account, setAccount] = useState(null);
   const [contract, setContract] = useState(null);
   const [totalSupply, setTotalSupply] = useState(0);
-  const [maxSupply, setMaxSupply] = useState(12000);
+  const [maxSupply, setMaxSupply] = useState(12000);  
   const [price, setPrice] = useState(0);
-  const [displayPrice, setDisplayPrice] = useState(0.07);
+  const [displayPrice, setDisplayPrice] = useState(0);
   const [lessMintAmountAlert, setLessMintAmountAlert] = useState(false);
   const [accessAccountDenied, setAccessAccountDenied] = useState(false);
   const [installEthereum, setInstallEthereum] = useState(false);
@@ -60,7 +60,7 @@ function App() {
   }, []);
 
   console.log("price", price);
-
+  // console.log("price", value);
   const loadBlockchainData = async () => {
     const contract = new window.web3.eth.Contract(contractAbi, contractAddress);
     setContract(contract);
@@ -78,17 +78,17 @@ function App() {
       const totalSupply = await contract.methods.totalSupply().call();
       setTotalSupply(totalSupply);
 
-      const price = await contract.methods.price().call();
+      const price = await contract.methods.getNFTPrice().call();
       setPrice(price);
-      const MAX_SUPPlY = await contract.methods.MAX_SUPPlY().call();
+      // const MAX_SUPPlY = await contract.methods.MAX_SUPPlY().call();
       // console.log("MAX_SUPPLY:", MAX_SUPPlY);
-      setMaxSupply(MAX_SUPPlY);
+      // setMaxSupply(MAX_SUPPlY);
       const displayPrice = window.web3.utils.fromWei(price, "ether");
       setDisplayPrice(displayPrice);
 
       //event will be fired by the smart contract when a new NFT is minted
       contract.events
-        .NFTMinted()
+        .GoosePunksMinted()
         .on("data", async function (result) {
           setTotalSupply(result.returnValues[0]);
         })
@@ -135,7 +135,7 @@ function App() {
           setConfirmTransaction(true);
           const finalPrice = Number(price) * mintCount;
           contract.methods
-            .mintNFT(mintCount)
+            .mintGoosePunks(mintCount)
             .send({ from: account, value: finalPrice })
             .on("transactionHash", function () {
               // swal({
