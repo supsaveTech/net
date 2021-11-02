@@ -53,7 +53,7 @@ const Index = () => {
               <div className="img-wrapper">
                 <img src={Img2} alt="" className="img-fluid" />
               </div>
-              <p className="social-icon">Co-Founder &nbsp;
+              <p className="social-icon">CFO &nbsp;
               
               <a
             href="https://twitter.com/JxT_2288"
@@ -74,7 +74,7 @@ const Index = () => {
               <div className="img-wrapper">
                 <img src={Img3} alt="" className="img-fluid" />
               </div>
-              <p className="social-icon">CFO &nbsp;
+              <p className="social-icon">Artist &nbsp;
                
               <a
             href="https://twitter.com/NSzero07"
