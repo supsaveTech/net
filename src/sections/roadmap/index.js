@@ -15,7 +15,7 @@ const Index = () => {
           <div class="mapbox-1 wow fadeInLeft">
             <div class="mapbox-inner">
               <h4>Q1/U1: Goosepunks' Lore</h4>
-              <p>This quarter shall feature the lunch of Goosepunks Lore,
+              <p>This quarter shall feature the launch of Goosepunks Lore,
                 an Artifical Intelligence (AI) powered utility that would enable all
                 goose create a backdrop story to their NFT. Stay tuned, stay updated. 
                 More announcements will be communicated in due course.
@@ -32,7 +32,7 @@ const Index = () => {
           <div class="mapbox-2 wow fadeInRight">
             <div class="mapbox-inner">
               <h4>Q2/U2: Goosepunks' Marketplace</h4>
-              <p>This quarter shall feature the lunch of Goosepunks Marketplace,
+              <p>This quarter shall feature the launch of Goosepunks Marketplace,
                 a market where all goose can mint their NFTs as well as upload and sell their NFTs.</p>
               <a href="https://www.app.goosepunks.com" target="_blank" rel="noreferrer">
               https://www.app.goosepunks.com
