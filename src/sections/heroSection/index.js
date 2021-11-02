@@ -3,6 +3,7 @@ import { Timer } from "../../components";
 
 import "./style.css";
 import HeroImg from "../../assets/images/bear-1.png";
+import greenCheck from "../../assets/images/green-check.svg"; 
 import Slider, { SliderTooltip } from "rc-slider";
 import "rc-slider/assets/index.css";
 const Index = ({
@@ -18,7 +19,7 @@ const Index = ({
   maxSupply,
 }) => {
   // eslint-disable-next-line no-unused-vars
-  const [value, setValue] = useState(0);
+  const [value, setValue] = useState(7);
    
   const { Handle } = Slider;
 
@@ -45,8 +46,46 @@ const Index = ({
     <section className="text-white hero">
       <div className="container">
         <div className="row align-items-center">
-          <div className="col-12 col-md-5 col-lg-5 col-xl-5 mt-4">
-            <h1>Welcome to GoosePunks NFTs</h1>
+          <div className="col-12 col-md-6 col-lg-6 col-xl-6 mt-3">
+            <h2>Welcome to GoosePunks NFTs</h2> 
+ 
+            <div className="bigger-button-wrapper">
+              <div className="bigger-button">
+                <img src={greenCheck} alt="greenCheck" />
+                <p className="big-btn-text">
+                  Tier 1-3, 4,500 Renegade GoosePunks minted
+                </p>
+              </div>
+              <div className="virticle-dots" />
+              <div className="bigger-button1">
+                <img
+                  style={{ display: "none" }}
+                  src={greenCheck}
+                  alt="greenCheck"
+                />
+                <p
+                  // style={{ color: "grey", paddingLeft: "38px" }}
+                  className="big-btn-text1"
+                >
+                  Tier 2-3,500 Renegade GoosePunks minted
+                </p>
+              </div>
+              <div className="virticle-dots" />
+              <div className="bigger-button1">
+                <img
+                  style={{ display: "none" }}
+                  src={greenCheck}
+                  alt="greenCheck"
+                />
+                <p
+                  // style={{ color: "grey", paddingLeft: "38px" }}
+                  className="big-btn-text1"
+                >
+                  Tier 3-3, 3,000 Renegade GoosePunks minted
+                </p>
+              </div>
+            </div>
+
             {difference > 0 ? (
               <Timer
                 days={days}
@@ -90,9 +129,9 @@ const Index = ({
               </div>
               
             )}
-            
-            <br/>
-            
+
+          <br/>
+
           </div>
           <div className="col-12 col-md-6 col-lg-6 col-xl-6">
             <div className="hero-image-bo">
