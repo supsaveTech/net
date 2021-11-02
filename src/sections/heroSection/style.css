@@ -1,13 +1,14 @@
 .hero {
   margin-top: 40px;
 }
-.hero h1 {
-  font-size: 45px;
+.hero h2 {
+  font-size: 40px;
   color: #fff;
-  text-align: center;
+  /* color: var(--violet); */
+  /* text-align: center; */
   margin-bottom: 30px;
   font-weight: bold;
-}
+}  
 
 div#countdown .timeBox {
   text-align: center;
@@ -133,4 +134,77 @@ button.mint-now {
   color: #fff;
   border-radius: 5px;
   margin-top: 30px;
+}
+.bigger-button-wrapper {
+  margin-top: 30px;
+}
+
+.bigger-button-wrapper .bigger-button {
+  width: 80%;
+  background-color: #151120;
+  padding: 12px 20px;
+  margin-bottom: 0px;
+  display: flex;
+  align-items: center;
+  /* box-shadow: 0 5px 5px 0 rgba(250, 241, 241, 0.2), 0 6px 20px 0 rgba(238, 226, 226, 0.19);   */
+  /* -webkit-box-shadow: -1px 1px 5px 9px rgba(246, 244, 244, 0.75);
+  -moz-box-shadow: -1px 1px 5px 9px rgba(246, 236, 236, 0.75); */
+  box-shadow: -1px 1px 5px 2px rgba(255, 254, 254, 0.75);
+  border-radius: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+}
+.bigger-button-wrapper .bigger-button1 {
+  width: 80%;
+  background-color: #1b1823;
+  padding: 12px 20px;
+  margin-bottom: 0px;
+  display: flex;
+  align-items: center;
+  box-shadow: -1px 1px 5px 0.1px rgba(182, 180, 180, 0.75);
+  border-radius: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+}
+
+.bigger-button-wrapper .bigger-button .big-btn-text {
+  margin-left: 20px;
+  color: #fff;
+  font-size: 14px;
+  font-family: "Roboto", sans-serif;
+}
+
+.bigger-button-wrapper .bigger-button1 .big-btn-text1 {
+  color: grey;
+  font-size: 14px;
+  font-family: "Roboto", sans-serif;
+  padding-left: 38px;
+}
+
+.virticle-dots{
+  height: 20px;
+  margin-left: 30px;
+  border-left: 1px dashed #ccc;
+}
+@media (max-width: 768px) {
+  
+  .bigger-button { 
+    width: 100% !important;
+  }
+  .bigger-button1 { 
+    width: 100% !important;
+  }
+  .bigger-button-wrapper .bigger-button .big-btn-text {
+    font-size: 11px;
+    width: 100%;
+  }
+  .bigger-button-wrapper .bigger-button1 .big-btn-text1 {
+    font-size: 11px;
+    width: 100%;
+  }
+ 
 }
