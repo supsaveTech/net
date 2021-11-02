@@ -16,7 +16,7 @@ const Index = () => {
           <h2>Team</h2>
         </div>
         <div className="row team">
-          <div className="col-12 col-md-3">
+          <div className="col-12 col-md-4">
             <div className="team-content">
               <div className="img-wrapper">
                 <img src={Img1} alt="" className="img-fluid" />
@@ -48,7 +48,7 @@ const Index = () => {
               </span> */}
             </div>
           </div>
-          <div className="col-12 col-md-3">
+          <div className="col-12 col-md-4">
             <div className="team-content">
               <div className="img-wrapper">
                 <img src={Img2} alt="" className="img-fluid" />
@@ -69,7 +69,7 @@ const Index = () => {
               </span>
             </div>
           </div>
-          <div className="col-12 col-md-3">
+          <div className="col-12 col-md-4">
             <div className="team-content">
               <div className="img-wrapper">
                 <img src={Img3} alt="" className="img-fluid" />
@@ -91,7 +91,7 @@ const Index = () => {
               </span>
             </div>
           </div>
-          <div className="col-12 col-md-3">
+          <div className="col-12 col-md-4">
             <div className="team-content">
               <div className="img-wrapper">
                 <img src={Img5} alt="" className="img-fluid" />
@@ -113,7 +113,7 @@ const Index = () => {
               </span>
             </div>
           </div>
-          <div className="col-12 col-md-3">
+          <div className="col-12 col-md-4">
             <div className="team-content">
               <div className="img-wrapper">
                 <img src={Img4} alt="" className="img-fluid" />
@@ -135,7 +135,7 @@ const Index = () => {
               </span>
             </div>
           </div>
-          <div className="col-12 col-md-3">
+          <div className="col-12 col-md-4">
             <div className="team-content">
               <div className="img-wrapper">
                 <img src={Img6} alt="" className="img-fluid" />
