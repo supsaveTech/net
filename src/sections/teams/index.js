@@ -3,7 +3,7 @@ import Img1 from "../../assets/images/img9.png";
 import Img2 from "../../assets/images/34.png";
 import Img3 from "../../assets/images/27.png";
 import Img4 from "../../assets/images/img8.png";
-import Img5 from "../../assets/images/img2.png";
+import Img5 from "../../assets/images/img11.png";
 import Img6 from "../../assets/images/img10.png";
 import Twitter from "../../assets/images/twitter.png";
 import Discord from "../../assets/images/discord.png";
