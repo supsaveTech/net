@@ -67,7 +67,7 @@ const Index = ({
                   // style={{ color: "grey", paddingLeft: "38px" }}
                   className="big-btn-text1"
                 >
-                  Tier 2-3,500 Renegade GoosePunks minted
+                  Tier 2-3 3,500 Renegade GoosePunks minted
                 </p>
               </div>
               <div className="virticle-dots" />
