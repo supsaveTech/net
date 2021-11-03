@@ -3,7 +3,6 @@ import { Timer } from "../../components";
 
 import "./style.css";
 import HeroImg from "../../assets/images/bear-1.png";
-import greenCheck from "../../assets/images/green-check.svg"; 
 import Slider, { SliderTooltip } from "rc-slider";
 import "rc-slider/assets/index.css";
 const Index = ({
@@ -46,46 +45,8 @@ const Index = ({
     <section className="text-white hero">
       <div className="container">
         <div className="row align-items-center">
-          <div className="col-12 col-md-6 col-lg-6 col-xl-6 mt-3">
-            <h2>Welcome to GoosePunks NFTs</h2> 
- 
-            <div className="bigger-button-wrapper">
-              <div className="bigger-button">
-                <img src={greenCheck} alt="greenCheck" />
-                <p className="big-btn-text">
-                  Tier 1-3, 4,500 Renegade GoosePunks minted
-                </p>
-              </div>
-              <div className="virticle-dots" />
-              <div className="bigger-button1">
-                <img
-                  style={{ display: "none" }}
-                  src={greenCheck}
-                  alt="greenCheck"
-                />
-                <p
-                  // style={{ color: "grey", paddingLeft: "38px" }}
-                  className="big-btn-text1"
-                >
-                  Tier 2-3 3,500 Renegade GoosePunks minted
-                </p>
-              </div>
-              <div className="virticle-dots" />
-              <div className="bigger-button1">
-                <img
-                  style={{ display: "none" }}
-                  src={greenCheck}
-                  alt="greenCheck"
-                />
-                <p
-                  // style={{ color: "grey", paddingLeft: "38px" }}
-                  className="big-btn-text1"
-                >
-                  Tier 3-3, 3,000 Renegade GoosePunks minted
-                </p>
-              </div>
-            </div>
-
+          <div className="col-12 col-md-6 col-lg-6 col-xl-6 mt-4">
+            <h1>Welcome to GoosePunks NFTs</h1>
             {difference > 0 ? (
               <Timer
                 days={days}
