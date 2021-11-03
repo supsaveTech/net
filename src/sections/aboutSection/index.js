@@ -16,7 +16,7 @@ const Index = () => {
           </div>
           <div className="col-12 col-md-8 mt-4 mt-sm-0">
             <div className="content-box">
-              <h6>What are GoosePunks?</h6>
+              <h6>What are GoosePunks? 🦢</h6>
               <p>
               GoosePunks is a collection of unique NFT avatars. 
               This series is called GoosePunks Renegades Each GoosePunk is algorithmically 
