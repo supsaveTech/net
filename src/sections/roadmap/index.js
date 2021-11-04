@@ -25,7 +25,7 @@ const Index = () => {
               </h4>
               
              <li> Website development. </li> 
-             <li>  Community growth on social channels. </li>   
+             <li> Community growth on social channels. </li>   
              <li> Airdrop and giveaway campaign. </li>
              <li> 3,500 Tier 1 Renegade GoosePunk NFTs minted. </li>
               
@@ -38,13 +38,13 @@ const Index = () => {
               className="roadmap-point3"
               src={roadmapPoint}
               alt="roadmapPoint"
-            />&nbsp;Q1/U1: Goosepunks' Lore
+            />&nbsp;Q1/U1: GoosePunks' Lore
                 </h4>
               <p>
               
-                This quarter shall feature the launch of Goosepunks Lore,
-                an Artifical Intelligence (AI) powered utility that would enable all
-                goose create a backdrop story to their NFT. Stay tuned, stay updated. 
+                This quarter shall feature the launch of GoosePunks Lore
+                 - an Artifical Intelligence (AI) powered utility that would enable all
+                geese to create a backdrop story to their NFT. Stay tuned, stay updated. 
                 More announcements will be communicated in due course.
               </p>
               <a href="https://www.app.goosepunks.com" target="_blank" rel="noreferrer">
@@ -69,9 +69,9 @@ const Index = () => {
               className="roadmap-point3"
               src={roadmapPoint}
               alt="roadmapPoint"
-            />&nbsp;Q2/U2: Goosepunks' Marketplace</h4>
-              <p> This quarter shall feature the launch of Goosepunks Marketplace, 
-                a market where all goose can mint their NFTs as well as upload and sell their NFTs.
+            />&nbsp;Q2/U2: GoosePunks' Marketplace</h4>
+              <p> This quarter shall feature the launch of GoosePunks Marketplace
+               - a market where all geese can mint their NFTs as well as upload and sell their NFTs.
               </p>
               <a href="https://www.app.goosepunks.com" target="_blank" rel="noreferrer">
               https://www.app.goosepunks.com
@@ -94,10 +94,10 @@ const Index = () => {
               className="roadmap-point3"
               src={roadmapPoint}
               alt="roadmapPoint"
-            />&nbsp;Q3/U3: Goosepunks' Gaggle</h4>
-              <p> We shall be launching the Goosepunks Gaggle in this quarter also, 
-                an interactive platfrom where all goose can come together to have fun, 
-                learn from one another and most importantly just GAGGLE.
+            />&nbsp;Q3/U3: GoosePunks' Gaggle</h4>
+              <p> In this quarter, we shall be launching the GoosePunks' Gaggle
+                 - an interactive platform where all geese can come together to have fun, 
+                learn from one another, and most importantly just GAGGLE.
               </p>
               <a href="https://www.app.goosepunks.com" target="_blank" rel="noreferrer">
               https://www.app.goosepunks.com
@@ -120,9 +120,9 @@ const Index = () => {
               className="roadmap-point3"
               src={roadmapPoint}
               alt="roadmapPoint"
-            />&nbsp;Q4/U4: Goosepunks' Rarible Integration</h4>
-              <p> Who doesn't love easter eggs, we would let you guess what Goosepunks' Rarible Integration
-                would be all about. But fear not for this goose shall continue to drop hints about 
+            />&nbsp;Q4/U4: GoosePunks' Rarible Integration</h4>
+              <p> Who doesn't love easter eggs? We would let you guess what GoosePunks' Rarible Integration
+                would be all about. But fear not, for this goose shall continue to drop hints about 
                 that as we progress in due course... Goose Gaggles.
               </p>
               <a href="https://www.app.goosepunks.com" target="_blank" rel="noreferrer">
@@ -150,14 +150,14 @@ const Index = () => {
               className="roadmap-point3"
               src={roadmapPoint}
               alt="roadmapPoint"
-            />&nbsp;Q1/U1: Goosepunks' Lore
+            />&nbsp;Q1/U1: GoosePunks' Lore
                 </h4>
                 <p>
-              
-              This quarter shall feature the launch of Goosepunks Lore,
-              an Artifical Intelligence (AI) powered utility that would enable all
-              goose create a backdrop story to their NFT. Stay tuned, stay updated. 
-              More announcements will be communicated in due course.
+                  
+                This quarter shall feature the launch of GoosePunks Lore
+                 - an Artifical Intelligence (AI) powered utility that would enable all
+                geese to create a backdrop story to their NFT. Stay tuned, stay updated. 
+                More announcements will be communicated in due course.
             </p>
             <a href="https://www.app.goosepunks.com" target="_blank" rel="noreferrer">
             https://www.app.goosepunks.com
@@ -180,9 +180,9 @@ const Index = () => {
               className="roadmap-point3"
               src={roadmapPoint}
               alt="roadmapPoint"
-            />&nbsp;Q2/U2: Goosepunks' Marketplace</h4>
-              <p> This quarter shall feature the launch of Goosepunks Marketplace, 
-                a market where all goose can mint their NFTs as well as upload and sell their NFTs.
+            />&nbsp;Q2/U2: GoosePunks' Marketplace</h4>
+              <p> This quarter shall feature the launch of GoosePunks Marketplace
+               - a market where all geese can mint their NFTs as well as upload and sell their NFTs.
               </p>
               <a href="https://www.app.goosepunks.com" target="_blank" rel="noreferrer">
               https://www.app.goosepunks.com
@@ -201,10 +201,10 @@ const Index = () => {
               className="roadmap-point3"
               src={roadmapPoint}
               alt="roadmapPoint"
-            />&nbsp;Q3/U3: Goosepunks' Gaggle</h4>
-              <p> We shall be launching the Goosepunks Gaggle in this quarter also, 
-                an interactive platfrom where all goose can come together to have fun, 
-                learn from one another and most importantly just GAGGLE.
+            />&nbsp;Q3/U3: GoosePunks' Gaggle</h4>
+              <p> In this quarter, we shall be launching the GoosePunks' Gaggle
+                 - an interactive platform where all geese can come together to have fun, 
+                learn from one another, and most importantly just GAGGLE.
               </p>
               <a href="https://www.app.goosepunks.com" target="_blank" rel="noreferrer">
               https://www.app.goosepunks.com
@@ -223,9 +223,9 @@ const Index = () => {
               className="roadmap-point3"
               src={roadmapPoint}
               alt="roadmapPoint"
-            />&nbsp;Q4/U4: Goosepunks' Rarible Integration</h4>
-              <p> Who doesn't love easter eggs, we would let you guess what Goosepunks' Rarible Integration
-                would be all about. But fear not for this goose shall continue to drop hints about 
+            />&nbsp;Q4/U4: GoosePunks' Rarible Integration</h4>
+              <p> Who doesn't love easter eggs? We would let you guess what GoosePunks' Rarible Integration
+                would be all about. But fear not, for this goose shall continue to drop hints about 
                 that as we progress in due course... Goose Gaggles.
               </p>
               <a href="https://www.app.goosepunks.com" target="_blank" rel="noreferrer">
