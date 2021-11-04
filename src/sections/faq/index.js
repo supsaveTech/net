@@ -8,7 +8,7 @@ import FaqImage from "../../assets/images/FAQ-vector.png";
 import "./style.css";
  
 const Index = () => {
-  const [accordion1, setAccordion1] = useState(true);
+  const [accordion1, setAccordion1] = useState(false);
   const [accordion2, setAccordion2] = useState(false);
   const [accordion3, setAccordion3] = useState(false);
   const [accordion4, setAccordion4] = useState(false);
@@ -174,17 +174,17 @@ const Index = () => {
     setAccordion11((prev) => !prev);
   };
 
-  return (
+  return ( 
     <section id="faq" class="section-space" className="faq-Section-main-wrapper">
-      <div className="container"> 
+      <div className="container">    
       <div className="section-heading">
            <h2>FAQ's <img src={FaqImage} width="5%" alt="" /></h2>
-            </div>
+       </div>
            {/* <div class="col-12 col-md-12">
-//             <div class="faq-left">
-//               <img src={FaqImage} width="1%" alt="" />
-//             </div>
-//           </div> */}  
+        //             <div class="faq-left">
+        //               <img src={FaqImage} width="1%" alt="" />
+        //             </div>
+        //           </div> */}  
         {/* <h1 className="faq-title">FAQ's</h1> */}
         <div className="row faq align-items-center">  
         <div className="col-12 col-md-6">
@@ -197,8 +197,8 @@ const Index = () => {
           className="faq-answer"
           style={!accordion1 ? { display: "none" } : null}
         >
-          Owner ship of a GoosePunk is your exclusive invitation into the
-          Gaggle, a place where other Geese meetup, hangout, listen to music,
+          Ownership of a GoosePunk is your exclusive invitation into the
+          Gaggle - a place where other Geese meetup, hangout, listen to music,
           exchange art and talk about strategies moving forward inside the
           GoosePunks project.
         </p>
@@ -238,7 +238,7 @@ const Index = () => {
           className="faq-answer"
           style={!accordion4 ? { display: "none" } : null}
         >
-          You will need a bit of ETH and a MetaMask wallet, you can buy ETH
+          You will need a bit of ETH and a MetaMask wallet. You can buy ETH
           either on Coinbase or another exchange then deposit that into your
           MetaMask wallet. Make sure your wallet is connected!
         </p>
@@ -257,7 +257,7 @@ const Index = () => {
             {" "}
             click this link
           </a>{" "}
-          and follow it straight from the source
+          and follow it straight from the source.
         </p>
         </div>
         </div>
@@ -277,9 +277,9 @@ const Index = () => {
           style={!accordion6 ? { display: "none" } : null}
         >
           With ownership of a GoosePunk NFT you will have the ability to stake
-          and render the NFT inside the GoosePunks game. Collect in game
+          and render the NFT inside the GoosePunks game. Collect in-game
           currency, travel to cities, participate in the GoosePunk ecosystem,
-          build a house, buy city’s, land deeds and more. Users will be able to
+          build a house, buy cities, land deeds and more. Users will be able to
           interact with other players, have a dance party, duel, and form
           factions.
         </p>
@@ -309,7 +309,7 @@ const Index = () => {
           style={!accordion8 ? { display: "none" } : null}
         >
           (NON-FUNGIBLE-TOKEN) A unique one of a kind item that YOU have
-          complete ownership of
+          complete ownership of.
         </p>
         </div>
         <div className="qwrapper">
@@ -321,7 +321,7 @@ const Index = () => {
           className="faq-answer"
           style={!accordion9 ? { display: "none" } : null}
         >
-          Right after you click mint
+          Right after you click mint.
         </p>
         </div>
         <div className="qwrapper">
@@ -334,7 +334,7 @@ const Index = () => {
           style={!accordion10 ? { display: "none" } : null}
         >
           All GoosePunk NFTs will be available on opensea.io for purchase or
-          sales, you can also transfer to secondary markets that support ETH
+          sales. You can also transfer to secondary markets that support ETH.
         </p>
         </div>
         <div className="qwrapper">
@@ -347,7 +347,7 @@ const Index = () => {
           style={!accordion11 ? { display: "none" } : null}
         >
           Yes! All GoosePunks will be generated and integrated into the
-          GoosePunks game
+          GoosePunks game.
         </p>
         </div>
         </div>
