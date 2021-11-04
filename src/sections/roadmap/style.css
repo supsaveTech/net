@@ -148,6 +148,7 @@ section.road-map {
   .mapbox-8
    { 
     background-size: contain;
+    background: #41394b;
     width: 350px;
     height: 150px;
     background-repeat: no-repeat;
