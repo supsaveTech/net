@@ -36,13 +36,13 @@ section.road-map {
 .mapbox-1 {
   display: inline-block;
   position: absolute;
-  top: 2%;
-  left: -1px;
+  top: 0%;
+  left: -30px;
   color: #fff;
   padding: 30px 30px 30px 30px;
   background-size: cover;
   width: 550px;
-  height: 170px;
+  height:305px;
   background: #41394b;
   border-radius: 30px 30px 0px 30px;
 }
@@ -70,7 +70,7 @@ section.road-map {
   border-radius: 30px 30px 0px 30px;
   background-size: cover;
   width: 550px;
-  height: 170px;
+  height: 250px;
 }
 .mapbox-4 {
   display: inline-block;
@@ -96,7 +96,7 @@ section.road-map {
   border-radius: 30px 30px 0px 30px;
   background-size: cover;
   width: 550px;
-  height: 170px;
+  height: 240px;
 }
 .mapbox-6 {
   display: inline-block;
@@ -169,15 +169,19 @@ section.road-map {
   right: 0;
   margin-bottom: 40px;
   border-radius: 10px;
-  padding: 10px 10px;
+  padding: 15px 10px;
   height: auto;
 }
 .map-box p {
   margin-bottom: 10px;
   margin-top: 20px;
+  font-size: 15px;
+}
+.map-box li {
+  font-size: 15px;
 }
 .map-box h4 {
-  font-size: 24px;
+  font-size: 18px;
   margin-bottom: 10px;
   font-weight: bold;
 }
