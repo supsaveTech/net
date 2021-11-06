@@ -16,7 +16,7 @@ const fetchData = async (e)=>{
             method: 'POST',
             headers: {
               'Content-Type': 'application/json',
-              'Authorization': 'Bearer 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',
+              'Authorization': 'Bearer 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',
             },
             body: JSON.stringify({
                 "prompt": apiData,
