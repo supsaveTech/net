@@ -1,6 +1,7 @@
 /*Road Map*/
 section.road-map {  
   background: #12151c;
+  padding: 80px 0;
 }
 .map-chart span {
   display: block;
