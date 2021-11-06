@@ -7,7 +7,7 @@ import {
   HeroSection,
   AboutSection,
   RoadmapSection,
-  // TraitSection,
+  LoreSection,
   GallarySection,
   FaqSection,
   TeamSection,
@@ -73,8 +73,8 @@ const Home = ({
           <AboutSection />
         </div>
         <RoadmapSection />
-        
         <GallarySection />
+        <LoreSection/>
         <FaqSection />
         <TeamSection />
       </Layout>
