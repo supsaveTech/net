@@ -5,6 +5,7 @@ import Img3 from "../../assets/images/27.png";
 import Img4 from "../../assets/images/img8.png";
 import Img5 from "../../assets/images/img11.png";
 import Img6 from "../../assets/images/img10.png";
+import Img7 from "../../assets/images/40.png";
 import Twitter from "../../assets/images/twitter.png";
 import Discord from "../../assets/images/discord.png";
 import "./style.css";
@@ -148,6 +149,28 @@ const Index = () => {
             rel="noreferrer"
           >
             <img src={Twitter} alt="twitter" />
+          </a>
+              
+              </p>
+              <span>
+                {/* Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Aliquam corrupti similique. */}
+              </span>
+            </div>
+          </div>
+          <div className="col-12 col-md-4">
+            <div className="team-content">
+              <div className="img-wrapper">
+                <img src={Img7} alt="" className="img-fluid" />
+              </div>
+              <p className="social-icon">Creative Designer &nbsp;
+               
+              <a
+            href=" https://twitter.com/wozurd"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src={Twitter} alt="twitter" /> 
           </a>
               
               </p>
