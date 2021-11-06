@@ -39,9 +39,9 @@ const Index = ({ difference, account, loadWeb3 }) => {
                 <a href="#roadmap">Roadmap</a>
               </li>
 
-              {/* <li className="list-item">
-                <a href="#traits">Traits</a>
-              </li> */}   
+              <li className="list-item">
+                <a href="#lore">Lore</a>
+              </li>  
 
               <li className="list-item">
                 <a href="#faq">FAQ</a>
@@ -113,11 +113,11 @@ const MobileBar = ({ openHandler, open, difference, loadWeb3, account }) => (
             Roadmap{" "}
           </a>
         </li>
-        {/* <li>
-          <a href="#traits" onClick={openHandler}>
-            Traits{" "}
+        <li>
+          <a href="#lore" onClick={openHandler}>
+            Lore{" "}
           </a>
-        </li> */}
+        </li>
         <li>
           <a href="#faq" onClick={openHandler}>
             FAQ{" "}
