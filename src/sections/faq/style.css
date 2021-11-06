@@ -73,9 +73,9 @@
     line-height: 20px;
     width: 100%;
   } 
-  /* .faq-title{
-    font-size: 26px;    
-  } */
+  .qwrapper a{
+  color: blue;  
+  }
   .question-wrapper h2{
     font-size: 16px;
   }
