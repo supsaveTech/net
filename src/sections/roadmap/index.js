@@ -41,7 +41,6 @@ const Index = () => {
             />&nbsp;Q1/U1: GoosePunks' Lore
                 </h4>
               <p>
-              
                 This quarter shall feature the launch of GoosePunks Lore
                  - an Artifical Intelligence (AI) powered utility that would enable all
                 geese to create a backdrop story to their NFT. Stay tuned, stay updated. 
