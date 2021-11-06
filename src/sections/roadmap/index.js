@@ -47,7 +47,7 @@ const Index = () => {
                 geese to create a backdrop story to their NFT. Stay tuned, stay updated. 
                 More announcements will be communicated in due course.
               </p>
-              <a href="#lore" target="_blank" rel="noreferrer">
+              <a href="#lore" rel="noreferrer">
               https://www.goosepunks.com
               </a>
             </div>
