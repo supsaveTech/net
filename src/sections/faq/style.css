@@ -40,6 +40,9 @@
   padding-left: 30px;
  
 }
+.qwrapper a{
+  color: blue;  
+  }
 .question-wrapper h2{
   font-size: 26px;
   color: #CCC;
