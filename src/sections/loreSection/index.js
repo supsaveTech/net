@@ -16,7 +16,7 @@ const fetchData = async (e)=>{
             method: 'POST',
             headers: {
               'Content-Type': 'application/json',
-              'Authorization': 'Bearer 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',
+              'Authorization': 'Bearer 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',
             },
             body: JSON.stringify({
                 "prompt": apiData,
@@ -24,7 +24,8 @@ const fetchData = async (e)=>{
                 "max_tokens": 188,
                 "top_p": 1,
                 "frequency_penalty": 0,
-                "presence_penalty": 0
+                "presence_penalty": 0,
+                "stop": ["..."]
 
             }),
         });
