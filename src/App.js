@@ -245,7 +245,7 @@ function App() {
         open={switchToMainnet}
         onClose={setswitchToMainnet}
         title="Error"
-        text="Please switch to mainnet to mint Viral Goat"
+        text="Please switch to mainnet to mint GoosePunks NFT"
       />
       <InformationModal
         open={ethereumCompatibleBrowser}
