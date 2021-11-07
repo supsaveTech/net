@@ -12,19 +12,21 @@ const fetchData = async (e)=>{
         e.preventDefault();
         try{
 
-            const response = await fetch(' https://api.openai.com/v1/engines/babbage/completions', {
+            const response = await fetch('https://api.openai.com/v1/engines/curie/completions', {
             method: 'POST',
             headers: {
               'Content-Type': 'application/json',
-              'Authorization': 'Bearer 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',
+              'Authorization': 'Bearer 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',
             },
             body: JSON.stringify({
                 "prompt": apiData,
                 "temperature": 0.7,
-                "max_tokens": 400,
-                "top_p": 0.11,
-                "frequency_penalty": 1.23,
-                "presence_penalty": 1.22
+                "max_tokens": 188,
+                "top_p": 1,
+                "frequency_penalty": 0,
+                "presence_penalty": 0,
+                "stop": ["...."]
+
             }),
         });
 
