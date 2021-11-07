@@ -12,7 +12,7 @@ const fetchData = async (e)=>{
         e.preventDefault();
         try{
 
-            const response = await fetch('https://api.openai.com/v1/engines/curie/completions', {
+            const response = await fetch(' https://api.openai.com/v1/engines/curie/completions', {
             method: 'POST',
             headers: {
               'Content-Type': 'application/json',
