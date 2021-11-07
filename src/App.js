@@ -203,7 +203,7 @@ function App() {
         open={lessMintAmountAlert}
         onClose={setLessMintAmountAlert}
         title="Oops"
-        text="Atleast 1 Secret Bear should be minted"
+        text="At least 1 GoosePunks NFT should be minted"
       />
       <InformationModal
         open={accessAccountDenied}
