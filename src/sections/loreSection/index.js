@@ -82,7 +82,7 @@ const fetchData = async (e)=>{
   <div class="modal-dialog modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header">
-        <h5 class="modal-title" id="exampleModalLabel">GoosePunks' Lore</h5>
+        <h5 class="modal-title" id="exampleModalLabel">GoosePunks' Lore (Generating your NFT backstory)</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span aria-hidden="true">&times;</span>
         </button>
@@ -90,7 +90,7 @@ const fetchData = async (e)=>{
       <div class="modal-body">
                 {/* {apiR} */}
                 <h5>
-                {apiR ? apiR : "loading..."}
+                {apiR ? apiR : "check back in 7days to generate your GoosePunks' Lore (GoosePunks' first utility)..."}
                 </h5>
       </div>
       <div class="modal-footer"> 
