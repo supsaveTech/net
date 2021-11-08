@@ -7,6 +7,7 @@ const Index = ({ children, difference, loadWeb3, account }) => {
     <div>
       <Header difference={difference} loadWeb3={loadWeb3} account={account} />
       <div>{children}</div>
+      <Subscriber />
       <Footer />
     </div>
   );
