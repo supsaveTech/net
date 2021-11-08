@@ -90,7 +90,7 @@ const fetchData = async (e)=>{
       <div class="modal-body">
                 {/* {apiR} */}
                 <h5>
-                {apiR ? apiR : "check back in 7days to generate your GoosePunks' Lore (GoosePunks' first utility)..."}
+                {apiR ? apiR : "Check back in 7 days to generate your GoosePunks' Backstory."}
                 </h5>
       </div>
       <div class="modal-footer"> 
