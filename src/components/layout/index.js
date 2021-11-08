@@ -1,5 +1,6 @@
 import "./style.css";
 import Header from "../header";
+import Subscriber from "../footer/subscribe";
 import Footer from "../footer";
 
 const Index = ({ children, difference, loadWeb3, account }) => {
