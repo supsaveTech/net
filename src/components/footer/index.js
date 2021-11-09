@@ -28,6 +28,8 @@ const Index = () => {
         <div className="footer-text">
           <span className="d-inline-block mr-4">Privay Policy</span>
           <span>Term & conditions</span>
+          <span>Press</span>
+          <span>Investor</span>
           <br />
           <br />
           <span>&nbsp; &nbsp; &nbsp; 
