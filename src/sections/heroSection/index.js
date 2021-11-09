@@ -71,22 +71,22 @@ const Index = ({
                     Ether)`
                     : "Connect Account"}
                 </p>
-//                 <button
-//                   style={
-//                     !account || totalSupply === maxSupply
-//                       ? {
-//                           backgroundColor: "grey",
-//                           color: "white",
-//                           cursor: "default",
-//                           pointerEvents: "none",
-//                         }
-//                       : null
-//                   }
-//                   className="mint-now mx-auto "
-//                   onClick={() => mint(value)}
-//                 >
-//                   Mint Now
-//                 </button>
+                 <button
+                   style={
+                     !account || totalSupply === maxSupply
+                       ? {
+                           backgroundColor: "grey",
+                           color: "white",
+                           cursor: "default",
+                           pointerEvents: "none",
+                         }
+                       : null
+                   }
+                   className="mint-now mx-auto "
+                   onClick={() => mint(value)}
+                 >
+                   Mint Now
+                 </button>
               </div>
               
             )}
