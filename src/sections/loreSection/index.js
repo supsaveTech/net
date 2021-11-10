@@ -94,7 +94,7 @@ const fetchData = async (e)=>{
                 </h5>
       </div>
       <div class="modal-footer"> 
-        <a href="#subscribe"><button type="button" class="btn btn-primary">Subscribe to Newsletter</button></a>
+//         <a href="#subscribe"><button type="button" class="btn btn-primary">Subscribe to Newsletter</button></a>
         <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
         {/* <button type="button" class="btn btn-primary">Save changes</button> */}
       </div>
