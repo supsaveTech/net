@@ -9,7 +9,8 @@
   margin-top: 50px;
 }
 .content-box {
-  margin-top: 50px;
+  margin-top: 50px; 
+  margin-bottom: 50px;
 }
 .content-box h6 {
   text-transform: capitalize;
@@ -21,6 +22,19 @@
   letter-spacing: 1;
   line-height: 24px;
 }
+.physical-box h6 {
+  text-transform: capitalize;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 15px;
+  color: #7f7f7f; 
+}
+.physical-box p {
+  font-size: 15px;
+  letter-spacing: 1;
+  line-height: 24px;
+  font-weight: bold;
+}  
 .card-image {
   display: flex;
   justify-content: center;
@@ -48,6 +62,16 @@
   }
   .card-image img {
     max-width: 300px;
+    width: 100%;
+  }
+}
+@media (max-width: 768px) {
+  .card-image p {
+    margin-top: 20px;
+    font-size: 22px;
+  }
+  .card-image img {
+    max-width: 350px;
     width: 100%;
   }
 }
