@@ -44,7 +44,7 @@ const Index = () => {
         <div class="row align-items-center mt-sm-3"> 
           <div className="col-12 col-md-3 d-md-block physical-box">
           <h6>IMPORTANT ANNOUNCEMENT!</h6>
-          <p>[All GoosePunk NFT holders are entitled to 1 physical panel for FREE! Stay checked in for updates]</p>
+          <p>[All GoosePunk NFT holders are entitled to 1 physical panel for FREE! Subscribe to our Newsletter for updates]</p>
           <br />
           </div>
           <div className="col-12 col-sm-3">
