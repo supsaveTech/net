@@ -22,7 +22,7 @@ const Index = () => {
   return (
     <section className="section-space">
        <div class="section-heading container">
-          <h2 className="text-center">GoosePunks Gallary 🦢📸</h2><br />
+          <h2 className="text-center">GoosePunks Gallery 🦢📸</h2><br />
         </div> 
       <div className="container-fluid">
         <div className="row p-0">
