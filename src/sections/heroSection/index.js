@@ -70,7 +70,7 @@ const Index = ({
                         2
                       )}
                     Ether)`
-                    : "Connect Wallet to see Total Goose Minted"}
+                    : "Connect Wallet to see Total GoosePunks Minted"}
                 </p>
                  <button
                    style={
