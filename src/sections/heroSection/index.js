@@ -47,7 +47,7 @@ const Index = ({
         <div className="row align-items-center">
           <div className="col-12 col-md-6 col-lg-6 col-xl-6 mt-4">
             <h1>Welcome to GoosePunks NFTs</h1>
-            <h5>We're LIVE! Mint your GoosePunks 🦢 NFT</h5>
+            <h6>We're LIVE! Mint your GoosePunks 🦢 NFT</h6>
             {difference > 0 ? (
               <Timer
                 days={days}
