@@ -181,11 +181,11 @@ const Index = () => {
             </div>
           </div>
         </div>
-            <div id="theVideo" className="container text-center">     
+         {/*   <div id="theVideo" className="container text-center">     
                 <video  autoplay="autoplay" loop="loop" width="300" height="480" controls>
                     <source src="https://i.gyazo.com/eb7c0cc720d03a3358a9b821e386b257.mp4" type="video/mp4" />
                 </video>
-            </div>
+            </div> */}
       </div>
     </section>
   );
