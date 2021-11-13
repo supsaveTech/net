@@ -12,8 +12,8 @@ import Gal9 from "../../assets/images/GOOSEPUNKS_LEGENDARIES_JACKETS_07-58.png";
 import Gal10 from "../../assets/images/GOOSEPUNKS_LEGENDARIES_JACKETS_07-59.png";
 import Gal11 from "../../assets/images/GOOSEPUNKS_LEGENDARIES_JACKETS_07-60.png";
 import Gal12 from "../../assets/images/GOOSEPUNKS_LEGENDARIES_JACKETS_07-61.png";
-import Gal13 from "../../assets/images/GOOSEPUNKS_LEGENDARIES_JACKETS_07-62.png";
-import Gal14 from "../../assets/images/GOOSEPUNKS_LEGENDARIES_JACKETS_07-63.png";
+import Gal13 from "../../assets/images/40.png";
+import Gal14 from "../../assets/images/23.png";
 import Gal15 from "../../assets/images/GOOSEPUNKS_LEGENDARIES_JACKETS_07-64.png";
 import Gal16 from "../../assets/images/img10.png";
 import "./style.css"; 
@@ -61,14 +61,15 @@ const Index = () => {
             <img className="img-fluid" src={Gal11} alt="gallary" />
           </div>
           <div className="col-6 col-sm-6 col-md-3 p-0">
-            <img className="img-fluid" src={Gal12} alt="gallary" />
+            <img className="img-fluid" src={Gal14} alt="gallary" />
           </div>
           <div className="col-6 col-sm-6 col-md-3 p-0">
             <img className="img-fluid" src={Gal13} alt="gallary" />
           </div>
           <div className="col-6 col-sm-6 col-md-3 p-0">
-            <img className="img-fluid" src={Gal14} alt="gallary" />
+            <img className="img-fluid" src={Gal12} alt="gallary" />
           </div>
+          
           <div className="col-6 col-sm-6 col-md-3 p-0">
             <img className="img-fluid" src={Gal15} alt="gallary" />
           </div>
