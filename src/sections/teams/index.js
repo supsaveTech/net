@@ -97,7 +97,7 @@ const Index = () => {
               <div className="img-wrapper">
                 <img src={Img5} alt="" className="img-fluid" />
               </div>
-              <p className="social-icon">Community Manager &nbsp;
+              <p className="social-icon">Public Relations Officer &nbsp;
                
               <a
             href="https://twitter.com/@whisper0829"
