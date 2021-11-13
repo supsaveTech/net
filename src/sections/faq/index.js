@@ -127,7 +127,7 @@ const Index = () => {
           Ownership of a GoosePunk is your exclusive invitation into the GoosePunks community, 
           rewards, arcade and metaverse.
           {" "}
-          <a href="https://medium.com/@GoosePunks" target="_blank">
+          <a href="https://medium.com/@GoosePunks/what-does-my-goosepunk-do-2799e75dbe86" target="_blank">
             {" "}
             Read more...
           </a>{" "}
