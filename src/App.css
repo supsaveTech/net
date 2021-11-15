@@ -16,7 +16,7 @@ body {
   font-family: "Roboto", sans-serif;
   /* background: var(--primary-color); */
   background-image: url(./assets/images/main-bg2.jpg);
-  background-position: center;
+/*   background-position: center; */
   color: var(--white);
   position: relative;
 }
