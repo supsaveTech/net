@@ -41,17 +41,24 @@ const Index = ({
     );
   };
 
+
   return (
     <section className="text-white hero">
       <div className="container">
         <div className="row align-items-center">
           <div className="col-12 col-md-6 col-lg-6 col-xl-6 mt-4">
             <h1>Welcome to GoosePunks NFTs</h1>
+            <div className="text-center text-md-left"> 
             <h5>Click here to mint Gas Free!</h5>
             <button className="mint-now mx-auto " styleObject="backgroundColor: grey;
                            color: white;
                            cursor: default;
-                           pointerEvents: none;"><a href="https://forms.gle/GGfHKLyCsH7ofzie6">Gasless Mint!!!</a></button>
+                           pointerEvents: none;">
+                           <a href="https://forms.gle/GGfHKLyCsH7ofzie6">
+                           Gasless Mint!!!
+                           </a>
+                           </button>
+                           </div>
             {difference > 0 ? (
               <Timer
                 days={days}
