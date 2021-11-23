@@ -51,7 +51,7 @@ const Index = ({
             <button className="mint-now mx-auto " styleObject="backgroundColor: grey;
                            color: white;
                            cursor: default;
-                           pointerEvents: none;"><a href="https://forms.gle/GGfHKLyCsH7ofzie6">Click here! to free mint</a></button>
+                           pointerEvents: none;"><a href="https://forms.gle/GGfHKLyCsH7ofzie6">Click here! to Gasless Mint</a></button>
             {difference > 0 ? (
               <Timer
                 days={days}
