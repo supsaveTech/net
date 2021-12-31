@@ -5,6 +5,7 @@ import Img3 from "../../assets/images/IMG_6781.png";
 import Img5 from "../../assets/images/img11.png";
 import Img6 from "../../assets/images/img10.png";
 import Img7 from "../../assets/images/IMG_6782.png";
+import Img8 from "../../assets/images/IMG_6660.png";
 import Twitter from "../../assets/images/twitter.png";
 import Discord from "../../assets/images/discord.png";
 import "./style.css";
@@ -104,6 +105,28 @@ const Index = () => {
             rel="noreferrer"
           >
             <img src={Twitter} alt="twitter" />
+          </a>
+              
+              </p>
+              <span>
+                {/* Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Aliquam corrupti similique. */}
+              </span>
+            </div>
+          </div>
+          <div className="col-12 col-md-4">
+            <div className="team-content">
+              <div className="img-wrapper">
+                <img src={Img8} alt="" className="img-fluid" />
+              </div>
+              <p className="social-icon">CPA &nbsp;
+               
+              <a
+            href="https://twitter.com/@jbirdd_nft"
+            target="_blank"
+            rel="noreferrer"
+          > 
+            <img src={Twitter} alt="twitter" /> 
           </a>
               
               </p>
