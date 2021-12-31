@@ -70,28 +70,7 @@ const Index = () => {
               </span>
             </div>
           </div>
-          <div className="col-12 col-md-4">
-            <div className="team-content">
-              <div className="img-wrapper">
-                <img src={Img3} alt="" className="img-fluid" />
-              </div>
-              <p className="social-icon">Lead Designer &nbsp;
-               
-              <a
-            href="https://twitter.com/johnnylwilson?s=21"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <img src={Twitter} alt="twitter" />
-          </a>
-              
-              </p>
-              <span>
-                {/* Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Aliquam corrupti similique. */}
-              </span>
-            </div>
-          </div>
+         
           <div className="col-12 col-md-4">
             <div className="team-content">
               <div className="img-wrapper">
@@ -181,6 +160,28 @@ const Index = () => {
             </div>
           </div>
         </div>
+        <div className="col-12 col-md-4">
+            <div className="team-content">
+              <div className="img-wrapper">
+                <img src={Img3} alt="" className="img-fluid" />
+              </div>
+              <p className="social-icon">Lead Designer &nbsp;
+               
+              <a
+            href="https://twitter.com/johnnylwilson?s=21"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <img src={Twitter} alt="twitter" />
+          </a>
+              
+              </p>
+              <span>
+                {/* Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Aliquam corrupti similique. */}
+              </span>
+            </div>
+          </div>
          {/*   <div id="theVideo" className="container text-center">     
                 <video  autoplay="autoplay" loop="loop" width="300" height="480" controls>
                     <source src="https://i.gyazo.com/eb7c0cc720d03a3358a9b821e386b257.mp4" type="video/mp4" />
